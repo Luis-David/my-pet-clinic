@@ -2,4 +2,6 @@
 .project
 .classpath
 *.class
-
+pet-clinic-web/target
+pet-clinic-web/web
+*.jar*
