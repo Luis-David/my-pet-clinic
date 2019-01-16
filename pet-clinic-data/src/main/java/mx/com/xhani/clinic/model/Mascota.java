@@ -1,4 +1,4 @@
-package model;
+package mx.com.xhani.clinic.model;
 
 import java.time.LocalDate;
 

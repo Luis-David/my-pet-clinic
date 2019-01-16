@@ -1,4 +1,4 @@
-package model;
+package mx.com.xhani.clinic.model;
 
 public class TipoMascota {
 	private String nombre;

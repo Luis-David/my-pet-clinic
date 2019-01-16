@@ -1,4 +1,4 @@
-package model;
+package mx.com.xhani.clinic.model;
 
 public class Persona {
 	private String apellidoPaterno;
