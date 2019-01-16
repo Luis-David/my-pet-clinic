@@ -1,6 +1,6 @@
 package mx.com.xhani.clinic.model;
 
-public class Persona {
+public class Persona extends EntididadBase{
 	private String apellidoPaterno;
 	private String apellidoMaterno;
 	private String nombre;

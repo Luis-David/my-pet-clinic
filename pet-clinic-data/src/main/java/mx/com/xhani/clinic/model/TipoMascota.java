@@ -1,6 +1,6 @@
 package mx.com.xhani.clinic.model;
 
-public class TipoMascota {
+public class TipoMascota extends EntididadBase {
 	private String nombre;
 
 	public String getNombre() {

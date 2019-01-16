@@ -2,7 +2,7 @@ package mx.com.xhani.clinic.model;
 
 import java.time.LocalDate;
 
-public class Mascota {
+public class Mascota extends EntididadBase{
 	private TipoMascota tipoMascota;
 	private Propietario propietario;
 	private LocalDate birthDay;
