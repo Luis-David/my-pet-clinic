@@ -1,0 +1,5 @@
+model/Veterinario.class
+model/TipoMascota.class
+model/Mascota.class
+model/Propietario.class
+model/Persona.class

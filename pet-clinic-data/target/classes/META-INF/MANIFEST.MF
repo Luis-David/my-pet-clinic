@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: tiger
+Build-Jdk: 10.0.2
+Implementation-Title: pet-clinic-data
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: mx.com.xhani
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/my-pet-clinic/pet-clinic-data
+Created-By: Maven Integration for Eclipse
+
